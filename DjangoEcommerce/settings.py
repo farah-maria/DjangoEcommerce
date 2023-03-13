@@ -147,3 +147,5 @@ LOGOUT_REDIRECT_URL = '/'
 #stripe payment
 STRIPE_KEY = ''
 
+DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
